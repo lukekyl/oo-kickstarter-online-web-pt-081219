@@ -1,4 +1,4 @@
-Class Backer
+class Backer
   attr_accessor
   attr_reader :backer_projects
   
