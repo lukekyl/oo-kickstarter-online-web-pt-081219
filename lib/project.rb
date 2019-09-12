@@ -1,9 +1,9 @@
 Class Project
-  # attr_accessor
-  # attr_reader :backers
+  attr_accessor
+  attr_reader :backers
   
-  # def initialize
-  #   @backers = []
-  # end
+  def initialize
+    @backers = []
+  end
 
 end
